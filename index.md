@@ -1,7 +1,7 @@
 # Eric Antonian
 ericantonian143@gmail.com • (973-396-7941) • https://www.linkedin.com/in/eric-antonian-342897245/ • https://github.com/eka5370
 
-![headshot]("C:\Users\Eric Antonian\Downloads\Eric headshot.jpg")
+![headshot]("/workspaces/CV_BMMB554_test/image.png")
 
 ## EDUCATION
 **PHD BMMB PROGRAM • AUG 2025 – CURRENT • PENN STATE UNIVERSITY**
