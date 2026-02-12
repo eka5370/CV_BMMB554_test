@@ -47,4 +47,4 @@ Prepared lab materials and substances as a lab preparatory assistant. Also worke
 
 •	Automated pipetting with Opentron
 
-•	Data Analysis (R and python)
+•	Data Analysis (R)
