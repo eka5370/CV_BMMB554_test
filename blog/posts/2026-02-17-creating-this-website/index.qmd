@@ -1,0 +1,97 @@
+---
+title: "Creating This Website with Quarto"
+author: "Eric Antonian"
+date: "2026-02-17"
+categories: [quarto, web development, tutorial]
+description: "How I built my personal CV website with blog functionality using Quarto and GitHub Pages"
+---
+
+## Introduction
+
+I recently created this website to showcase my CV and share my thoughts through blog posts. I chose [Quarto](https://quarto.org/) as the framework because it's powerful, flexible, and integrates seamlessly with GitHub Pages for automatic deployment.
+
+## Why Quarto?
+
+Quarto is an open-source scientific and technical publishing system that makes it easy to create beautiful websites, blogs, and documents. Here are some reasons I chose it:
+
+- **Easy to use**: Write content in Markdown
+- **Built-in blog support**: Listing pages and post management out of the box
+- **Customizable**: Lots of themes and styling options
+- **GitHub Actions integration**: Deploy automatically to GitHub Pages
+- **Academic-friendly**: Great for researchers and scientists who want to share their work
+
+## The Setup Process
+
+### 1. Installing Quarto
+
+First, I installed Quarto on my system. On Linux, this was straightforward:
+
+```bash
+wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.553/quarto-1.4.553-linux-amd64.deb
+sudo dpkg -i quarto-1.4.553-linux-amd64.deb
+```
+
+### 2. Project Structure
+
+I organized the project with the following structure:
+
+```
+├── _quarto.yml          # Main configuration file
+├── index.md             # CV/Homepage
+├── blog/
+│   ├── index.qmd        # Blog listing page
+│   └── posts/           # Individual blog posts
+│       └── 2026-02-17-creating-this-website/
+│           └── index.qmd
+├── styles.css           # Custom styling
+└── .github/
+    └── workflows/
+        └── publish.yml  # GitHub Actions deployment
+```
+
+### 3. Configuration
+
+The `_quarto.yml` file is the heart of the website configuration. It defines:
+
+- The website structure and navigation
+- Links to my GitHub and LinkedIn profiles
+- Theme and styling preferences
+- Blog listing configuration
+
+### 4. GitHub Actions Deployment
+
+One of the best features is automatic deployment. Every time I push changes to the main branch, GitHub Actions:
+
+1. Checks out the repository
+2. Sets up Quarto
+3. Renders the website
+4. Deploys it to GitHub Pages
+
+This means I can focus on writing content, and the website updates automatically!
+
+## Writing Blog Posts
+
+Each blog post is a Quarto document (`.qmd` file) with YAML frontmatter that includes:
+
+- Title and author
+- Publication date
+- Categories for organization
+- A description for previews
+
+The blog automatically generates a listing page with all posts sorted by date.
+
+## Next Steps
+
+Now that the website is set up, I plan to:
+
+- Share research updates and findings
+- Write tutorials on techniques I'm learning
+- Document my PhD journey in the BMMB program
+
+## Conclusion
+
+Building this website with Quarto was surprisingly straightforward, and the result is a professional-looking site that's easy to maintain. If you're a researcher or scientist looking to establish an online presence, I highly recommend giving Quarto a try!
+
+---
+
+*The complete source code for this website is available on [GitHub](https://github.com/eka5370/CV_BMMB554_test).*

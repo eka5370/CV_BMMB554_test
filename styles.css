@@ -1,0 +1,25 @@
+/* Custom styles for the website */
+
+.quarto-title-banner {
+  background-color: #007bff;
+}
+
+img {
+  max-width: 300px;
+  border-radius: 50%;
+  display: block;
+  margin: 20px auto;
+}
+
+h2 {
+  color: #007bff;
+  margin-top: 30px;
+}
+
+h3 {
+  color: #0056b3;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}

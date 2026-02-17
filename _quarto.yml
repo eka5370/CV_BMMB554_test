@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Eric Antonian"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.md
+      - text: "Blog"
+        href: blog/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/eka5370
+      - icon: linkedin
+        href: https://www.linkedin.com/in/eric-antonian-342897245/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
