@@ -14,4 +14,4 @@ In my freetime I enjoy creative pursuits that build up to a final product: most 
      3. Optionally update the alt text and caption to describe the photo.
 -->
 
-![A freshly baked Challah loaf](images/IMG_0697.jpeg){fig-alt="Challah bread" width="80%"}
+![A freshly baked Challah loaf](images/IMG_0687.jpeg){fig-alt="Challah bread" width="80%"}
