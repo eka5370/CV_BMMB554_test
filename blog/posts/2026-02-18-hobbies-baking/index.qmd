@@ -1,0 +1,17 @@
+---
+title: "Hobbies: Baking & Beyond"
+author: "Eric Antonian"
+date: "2026-02-18"
+categories: [hobbies, baking, personal]
+description: "A little about the creative hobbies I enjoy outside of research."
+---
+
+In my freetime I enjoy creative pursuits that build up to a final product: most notably baking and crocheting. Baking in particular I have taken up for a few years (my sourdough starter reached its 1st year in January!) and my favorite recipe is Challah pictured here:
+
+<!-- TO ADD YOUR PHOTO:
+     1. Place your Challah image file in the `images/` folder next to this file.
+     2. Replace `challah.jpg` below with your actual filename.
+     3. Optionally update the alt text and caption to describe the photo.
+-->
+
+![A freshly baked Challah loaf](images/IMG_0697.jpeg){fig-alt="Challah bread" width="80%"}
