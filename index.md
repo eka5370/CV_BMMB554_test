@@ -8,9 +8,7 @@ ericantonian143@gmail.com • (973-396-7941) • https://www.linkedin.com/in/eri
 
 •	Performing research within the Bisanz lab pertaining to PFAS and the gut microbiome
 
-**BS BIOLOGY AND BS CHEMISTRY• AUG 2021 -- MAY 2025 • EMORY UNIVERSITY**
-
-•	Chemistry degree was obtained with a biomolecular specialization
+**BS BIOLOGY AND BS CHEMISTRY WITH BIOMOLECULAR SPECIALIZATION• AUG 2021 -- MAY 2025 • EMORY UNIVERSITY**
 
 ## WORK EXPERIENCE
 **UNDERGRADUATE RESEARCHER• EMORY UNIVERSITY • JAN 2024 – MAY 2025**
@@ -30,11 +28,13 @@ Participated in a nine-week summer research program with The Ohio State Universi
 Prepared lab materials and substances as a lab preparatory assistant. Also worked as a lab teaching assistant to help students better understand basic lab concepts such as acid/base reactions and nucleophilic substitution as well as proper lab techniques.
 
 ## PROJECTS/PRESENTATIONS
-•	Co-author of “PFAS drive gut dysbiosis and antibiotic resistance” manuscript
 
-•	Made and presented a poster of my research toward SHH medulloblastoma one-carbon metabolism at Emory’s Spring research symposium
+Tian, Y., Koo, I., Anderson, B. D., Anitha, M., Vairagkar, A., Santos A., Tian, S., Antonian, E., Paudel, D., Oldro, K. J.,Patel, A. D., Mullins, C. E., Lee, M., Sallam, L., Koshkin, S., Yennawar, H. P., Fecko, J. A., Cutler, T., ... Patterson, A. D. (2026). *PFAS drive gut dysbiosis and antibiotic resistance*. Manuscript submitted for publication 
 
-•	Made and presented a slide deck on OSU research on research on magnetism of hexagonal perovskites at summer research symposium
+Made and presented a poster of my research toward SHH medulloblastoma one-carbon metabolism at Emory’s Spring research symposium
+
+Antonian, E., Foster, C., Woodward, Patrick. (2023, July 14). *Magnetism of Complex Oxides Containing 4d and 5d Transition Metal Ions* [Symposium presentation]. OSU 2023 Summer Undergraduate Research Symposium, Columbus, OH, United States. 
+
 
 ## SKILLS
 •	Molecular Biology Techniques (PCR, Gel Electrophoresis)
