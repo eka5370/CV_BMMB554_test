@@ -16,7 +16,8 @@ ericantonian143@gmail.com • (973-396-7941) • https://www.linkedin.com/in/eri
 
 ## RESEARCH EXPERIENCE
 
-**PHD GRAD STUDENT RESEARCHER• PENN STATE UNIVERSITY • AUG 2025 - PRESENT **
+**PHD GRAD STUDENT RESEARCHER• PENN STATE UNIVERSITY • AUG 2025 - PRESENT**
+
 Conducting research in the Bisanz lab on environmental xenobiotics within the gut microbiome, with a focus on PFAS. This research utilizes high-throughput screening to identify microbial susceptibilities and resistance profiles across a diverse library of gut isolates. Following identification of microbial candidates, investigation of microbe-toxicant interactions such as biotransformation and sequestration are carried out using metagenomic sequencing, synthetic communities, and germ-free mouse models to evaluate the impact of xenobiotics on host health and develop microbial therapeutics to mitigate toxicant exposure. 
 
 **UNDERGRADUATE RESEARCHER• EMORY UNIVERSITY • JAN 2024 – MAY 2025**
